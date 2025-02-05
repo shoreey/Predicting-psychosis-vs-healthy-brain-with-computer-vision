@@ -1,7 +1,23 @@
 # Predicting Psychosis vs Healthy Brain with Computer Vision
 
 ## Project Overview
-This project uses advanced computer vision and deep learning techniques to predict psychosis from brain imaging data. We compare three different neural network architectures to classify brain scans as either psychotic or healthy.
+This project aims to classify individuals as First-Episode Psychosis (FEP) or Healthy Controls using 3D MRI images. We implemented multiple 3D convolutional neural network (CNN) architectures and compared their performance.
+
+## Objectives
+
+- Classify FEP vs Healthy Control using 3D MRI data.
+
+- Compare performance across different 3D CNN models.
+
+- Analyze model accuracy and generalization.
+
+## Data Description
+
+- Input: 3D MRI brain images.
+
+- Labels: FEP or Healthy Control.
+
+- Preprocessing: Normalization, resizing, and data augmentation.
 
 ## Models Implemented
 
